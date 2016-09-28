@@ -28,7 +28,7 @@
     "selenium-webdriver": "3.0.0-beta-2",
     "transliteration": "1.1.9",
     "wrench": "1.5.9",
-    "yadda": "0.20.0"
+    "yadda": "0.21.0"
   },
   "devDependencies": {
     "bower": "1.7.9",
